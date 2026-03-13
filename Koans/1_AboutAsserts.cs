@@ -9,7 +9,7 @@ public class AboutAsserts : Koan
 	[Step(1)]
 	public void AssertTruth()
 	{
-		Assert.True(false); //This should be true
+		Assert.True(true); //This should be true
 	}
 
 	//Enlightenment may be more easily achieved with appropriate messages
